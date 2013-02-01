@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Jan 13 21:59:44 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MyHbase.jar
+manifest.mergeall=true
+manifest.mainclass=main.MDPS
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
